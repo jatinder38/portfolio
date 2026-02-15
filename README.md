@@ -1,2 +1,2 @@
 # Portfolio
-My Dynamics 365 Consultant Portfolio
+My Dynamics 365 Portfolio
